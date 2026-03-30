@@ -12,6 +12,8 @@ Completed Bachelor in Information and Communication Technology, August 2022 - Ju
 Ongoing Master in Computer Science, August 2025 - Ongoing, [Program](https://www.kth.se/en/studies/master/computer-science/msc-computer-science-1.419974)
 
 ## Projects
+A sample of some personal projects. Most others are written as part of course assignments and can therefore not be displayed here due to KTH policy.
+
 ### Devblog of Game design project and globe projection project
 Google docs loosely documenting two ongoing projects. One a very early game concept in development. The other a tool to project planar maps with 3D (height) features onto a globe, and measure distances between points on such a globe, using both the Mercator and Equirectangular (Plate Carrée) projection schemes.
 
