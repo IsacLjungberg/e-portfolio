@@ -2,6 +2,9 @@
 
 ## Experience
 - Programming in various languages (Java, Python, C, C#, Javascript, Elixir, Prolog, etc.)
+- Web development (HTML, Javascript, React)
+- Database technology (SQL)
+- Machine Learning and AI, both developing and applying
 - 3D modelling and 3D sculpting in [Blender](https://www.blender.org/)
 
 ## Education
