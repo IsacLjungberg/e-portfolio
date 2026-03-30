@@ -5,7 +5,9 @@
 - 3D modelling and 3D sculpting in [Blender](https://www.blender.org/)
 
 ## Education
-Degree program in Information and Communication Technology at KTH, Augusti 2022 - pågående [Program](https://www.kth.se/student/kurser/program/CINTE?l=en)
+Degree program in Information and Communication Technology at KTH, August 2022 - Ongoing, [Program](https://www.kth.se/student/kurser/program/CINTE?l=en)
+Completed Bachelor in Information and Communication Technology, August 2022 - June 2025
+Ongoing Master in Computer Science, August 2025 - Ongoing, [Program](https://www.kth.se/en/studies/master/computer-science/msc-computer-science-1.419974)
 
 ## Projects
 ### Contribution to Dinosaur Game for the chipkit
