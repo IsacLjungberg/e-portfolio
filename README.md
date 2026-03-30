@@ -12,6 +12,14 @@ Completed Bachelor in Information and Communication Technology, August 2022 - Ju
 Ongoing Master in Computer Science, August 2025 - Ongoing, [Program](https://www.kth.se/en/studies/master/computer-science/msc-computer-science-1.419974)
 
 ## Projects
+### Devblog of Game design project and globe projection project
+Google docs loosely documenting two ongoing projects. One a very early game concept in development. The other a tool to project planar maps with 3D (height) features onto a globe, and measure distances between points on such a globe, using both the Mercator and Equirectangular (Plate Carrée) projection schemes.
+
+[Devblog](https://docs.google.com/document/d/15oBxvKo4drUms28vUtmy5OiYSwPEtHs36Y_qibukJN8/edit?usp=sharing)
+
+### Bachelor's Thesis
+My Bachelor's thesis on using Large Language Models for personality evaluation. Co-authored with Saina Shamshirdar. Written in Swedish. [Thesis on Diva](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-367699)
+
 ### Contribution to Dinosaur Game for the chipkit
 Project developed with Brian Onoszko, recreation of Google Chromes "Dinosaur Game". Majority of code pair programmed, excluding some code I developed on my own (specified in [Contributions to Chipkit Dinosaur Game](https://github.com/IsacLjungberg/Contributions-to-Chipkit-Dinosaur-Game)).
 
